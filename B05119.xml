@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Relation of the late battail between the two great armies of the Conferderates and the King of France, at the River Pieton, between the Charleroy and Nieuell, on Saturday the 11. August N.S. 1674.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05119</idno>
+            <idno type="STC">Wing R846</idno>
+            <idno type="STC">ESTC R182586</idno>
+            <idno type="EEBO-CITATION">51784622</idno>
+            <idno type="OCLC">ocm 51784622</idno>
+            <idno type="VID">175031</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05119)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175031)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2710:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Relation of the late battail between the two great armies of the Conferderates and the King of France, at the River Pieton, between the Charleroy and Nieuell, on Saturday the 11. August N.S. 1674.</title>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D. Newman in the Poultrey,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dutch War, 1672-1678 --  Campaigns --  France --  Early works to 1800.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175031:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 51 -->
+            <p>A RELATION Of the Late BATTAIL Between The Two Great Armies Of The CONFEDERATES and the KING of <hi>France,</hi> at the River <hi>Pieton,</hi> between <hi>Charleroy</hi> and <hi>Nieuell,</hi> on <hi>Saturday</hi> the 11. <hi>August</hi> N. S. 1674.</p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>D. Newman</hi> in the <hi>Poultrey,</hi> 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175031:2"/>
+            <!-- PDF PAGE 52 -->
+            <head>A RELATION OF THE Late Great Battel, between the two Potent ARMYS, <hi>&amp;c.</hi>
+            </head>
+            <p>ON <hi>Friday</hi> the 10th. of <hi>Auguſt,</hi> N. Stile, the Prince of <hi>Oranges</hi> Army lying at <hi>Nieuel,</hi> on the North-ſide of the River <hi>Sangery,</hi> with the Emperial Army, under the Command of General <hi>Souch,</hi> near <hi>Mons,</hi> and to the Eaſtward of a ſmall River, called <hi>Pieton.</hi> It was given out in the Prince of <hi>Oranges</hi> Army, that they would March off the next day to New quarters, which brought the Prince of <hi>Conde</hi> (who lay with his Army Intrenched behind the ſaid River <hi>Pieton</hi>) to a Reſolution to Attempt ſome Exploit on the Rear of the Confede<g ref="char:EOLhyphen"/>rate Army, under the Command of the Prince of <hi>Orange:</hi> But the de<g ref="char:EOLhyphen"/>ſign of the Prince of <hi>Orange</hi> was to Attacque a Body of the <hi>French</hi> Troops, which were in a Wood, to make good a Paſs on the other ſide of the Ri<g ref="char:EOLhyphen"/>ver <hi>Pieton,</hi> for the ſecurity of the <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rench</hi> Army; whereby he did ſup<g ref="char:EOLhyphen"/>poſe he might Engage the whole <hi>French</hi> Army to their Reſcue, and ſo forces over the River to the <hi>French,</hi> in the Wood, leaving his Artillary and Baggage Guarded only with Nine Regiments; whereupon the Prince of <hi>Conde,</hi> inſtead of drawing out his Army to Reſcue his Party which were to be Attaqued, makes a ſhort cut over the aforeſaid ſmall River, with a conſiderable part of his Army; Beats off the Prince of <hi>Oranges</hi> Nine Regiments with no ſmall ſlaughter, and ſo poſſeſſes himſelf of all his Artillary and Baggage, and takes ſeveral Priſoners. Immediately the Prince of <hi>Orange,</hi> with the Confederates returns back from their At<g ref="char:EOLhyphen"/>tempt, and Reſcues the remainder of their Men from being Kill'd by the <hi>French,</hi> repreſſing the <hi>French,</hi> and recovering his loſt Cannon and Bag<g ref="char:EOLhyphen"/>gage: The Prince of <hi>Conde</hi> to ſecond his firſt Attempt, brings down the remainder of his Army, only leaving a ſufficient Party behind to make good his Trenches, in caſe of a Retreat; with which ſupply of his, and the remainder of his Forces, he Beats off that part of the Confederates Army that had come over and Reſcued their Men and Artillery, and re<g ref="char:EOLhyphen"/>poſſeſſes himſelf of the aforeſaid Cannon and Carriages. The Prince of <hi>Orange</hi> ſeeing that, Reinforces his repell'd Troops, with the remainder of the Confederate Army, which came down with ſuch courage, that he put the <hi>French</hi> to another Retreat, and ſo recovers again all his loſt Carriages and Cannon.</p>
+            <p>The ground on which they fought being rough and ſnaggy, thereby not admitting the Armys to draw up in a regular Battalia, they were forced (by ſucceſſion of Partys and Bodys of Horſe &amp; Foot, as the ground would permit them,) to have divers Encounters, wherein the ſucceſs
+<pb n="2" facs="tcp:175031:3"/>
+               <!-- PDF PAGE 53 -->proved Various: But many of the Horſe and Foot, with the forwardeſt of the Nobility and Gentry (ſome ſay to the number of 400. of the <hi>French</hi> ſide) were Slain and Wounded on both ſides; falling hea<g ref="char:EOLhyphen"/>vily on the Li<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Guards of the King of <hi>France,</hi> as it did before in their firſt Attemption the Nine Regiments left by the Carriages of the Prince of <hi>Orange;</hi> as alſo in the ſecond Aſſault upon the three Re<g ref="char:EOLhyphen"/>giments of <hi>Holſtein, Morbec,</hi> and the young Prince of <hi>Vandemont;</hi> the former of which, of 1100 Brave men (behaving themſelves Gallantly) not above one hundred eſcaped in this fierce and bloody Engagement of the Armys thus in Partys: The Prince of <hi>Conde</hi> was ſo hard put to it, like a Noble General, he was forced (for the ſafety of the whole) perſonally to Ingage to that degree of hazard, that two Horſes were kill'd under him, and in the Remounting, the induſtry of his Son was ſuch, that in helping his Father to a freſh Horſe, himſelf was much wounded. Both ſides thus wearying themſelves in their Conteſt for Victory, the Suc<g ref="char:EOLhyphen"/>ceſs proved doubtful; and when the Valour of both would admit of no other Deciſion, the Night interpoſed, in which the Prince of <hi>Conde</hi> Re<g ref="char:EOLhyphen"/>treated to his Camp on the other ſide the River <hi>Pieton,</hi> and the Confe<g ref="char:EOLhyphen"/>derates kept their former poſts: Several Waggons on <hi>Sunday</hi> Morning early, were at the Gates of <hi>Bruſſels,</hi> which upon the firſt Approach of the Prince of <hi>Condy</hi>'s Forces Attacking the Artillery and Carriages, did make their Eſcape, and did put <hi>Bruſſels</hi> into ſome Conſternation.</p>
+            <p>In this Battel, there fell (as is adjuged by men on both ſides) no leſs than 10000 Men, the diſtinct Aſſignment what of this number were loſt on each ſide, is too hard for any impartial man to determine, in regard the Slaughter fell not out by a Rout of either Party, but a mutual falling one againſt the other; neither can it be determined, but by the calling over the Muſter-rouls of each Army; But its probable, that by reaſon of the laſt Repulſe of the <hi>French</hi> from the Cannon and Carriage of the Prince of <hi>Orange,</hi> by the weight of the Confederate Army (which was oppoſed by the fury of the aſſayling <hi>French</hi>) more of the <hi>French</hi> muſt fall than of the Confederates.</p>
+            <p>As for the Priſoners taken by the <hi>French,</hi> they were moſt of them private Souldiers, Guarding the Carriages of the Nine Regiments, though there is a report of ſeveral Great Officers and perſons of quality; among whom are the <hi>Prince de Salme,</hi> the Marqueſs <hi>d' Aſſentaer,</hi> and others, of which you ſhall know by the next. The Eminent Perſons wounded on the Confede<g ref="char:EOLhyphen"/>rates ſide, are Prince <hi>Charles</hi> of <hi>Lorraine,</hi> Prince <hi>Pio,</hi> Count <hi>Waldouk,</hi> &amp;c.</p>
+            <p>On the French ſide, that Renowned Commander <hi>Montel,</hi> the Governour of <hi>Charle le Roy,</hi> Duke <hi>D'Anguin,</hi> and ſome ſay <hi>Luxenburgh</hi> is kill'd.</p>
+            <p>In this Great Battail as the Prince of <hi>Conde</hi> behaved himſelf with great Valour and prudence; ſo did the Prince of <hi>Orange,</hi> to the Admiration of all; and the Generals that were with him; particularly, he that was formerly Governour of <hi>Maſtrick</hi> for the <hi>Dutch.</hi> If the French have but equal loſs in number, they have the diſadvantage only in this, that their Army was conſiderably the ſmaller of the two.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
